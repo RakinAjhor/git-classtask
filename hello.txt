@@ -1,0 +1,4 @@
+Git is not commonly used by me.
+  I usually use locally.
+  This usually does not have any version control.
+  Which can be problem in a big software.
